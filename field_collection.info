@@ -1,6 +1,7 @@
 name = Field collection
-description = Provides a field collection field, to which any number of fields can be attached.
+description = Provides a field collection field, to which any number of fields can be attached. WWM modified to provide feeds support (https://www.drupal.org/node/1063434)
 core = 7.x
+version = "7.x-1.x-dev-wwm"
 dependencies[] = entity
 files[] = field_collection.test
 files[] = field_collection.entity.inc
